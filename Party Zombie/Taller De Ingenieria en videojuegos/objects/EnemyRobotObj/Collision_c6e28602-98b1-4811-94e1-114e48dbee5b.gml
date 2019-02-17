@@ -1,0 +1,1 @@
+hpRobot = hpRobot - 1;

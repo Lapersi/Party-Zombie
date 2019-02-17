@@ -1,0 +1,1 @@
+ammoWeapon = ammoWeapon + 10;
